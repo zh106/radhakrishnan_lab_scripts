@@ -17,8 +17,16 @@ In our lab, we use git as a version control system for how our scripts change ov
 ## How should I use this repository?
 
 Using this repository is pretty simple if you don't know git. Once you write a script for a project in the lab, copy over the most updated
-version into an appropriately named folder in this repository like any old directory. If you make changes to that script, copy over the newe
-r version and rewrite the old version (so keep the name the same). GitHub will show the history of how the file changed on the website of this repository. It doesn't do this automatically so people who know how to use GitHub will need to push the changes to the remote side of this repository.
+version into an appropriately named folder in this repository like any old directory. If you make changes to that script, copy over the newer version and rewrite the old version (so keep the name the same). GitHub will show the history of how the file changed on the website of this repository. It doesn't do this automatically so people who know how to use GitHub will need to push the changes to the remote side of this repository.
 
 If you do know git, it gets a little bit more complicated to use this repository if Mala allows you to handle the version control. A git tutorial is shown in the tutorials folder of this repository.
+
+
+## Things to avoid when using this repository
+
+- Experimenting with git on this repository before a test repository. There are some things that you can't undo with git that can mess up a repository in a really bad way.
+- uploading files larger than 100 mb, it will probably get blocked by github and not allow an upload to the remote repository
+- 
+
+
 
